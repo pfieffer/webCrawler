@@ -1,4 +1,6 @@
 # webCrawler
+main method at src/web/crawler
+total of three classes
 <ul>
   <li>Simple web crawler in Java</li>
   <li>Crawl and search for a particular string in a website</li>
